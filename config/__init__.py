@@ -1,0 +1,1 @@
+from emotion_detection.config import emotion_config
